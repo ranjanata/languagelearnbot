@@ -1,0 +1,79 @@
+Prompt 1:
+User: How do you say "hello" in French?
+Response: "Hello" in French is "Bonjour."
+
+Prompt 2:
+User: What is the past tense of "go" in English?
+Response: The past tense of "go" is "went."
+
+Prompt 3:
+User: Can you help me translate "thank you" into Spanish?
+Response: "Thank you" in Spanish is "Gracias."
+
+Prompt 4:
+User: What’s the difference between "ser" and "estar" in Spanish?
+Response: "Ser" is used for permanent characteristics, such as identity or origin, while "estar" is used for temporary states or conditions, like emotions or location.
+
+Prompt 5:
+User: How do I pronounce "schön" in German?
+Response: "Schön" in German is pronounced as [ʃøːn], like "shurn" but with rounded lips for the "ö" sound.
+
+Prompt 6:
+User: What does "casa" mean in English?
+Response: "Casa" means "house" in English.
+
+Prompt 7:
+User: Can you give me an example of a sentence using the future tense in English?
+Response: Sure! "I will go to the store tomorrow."
+
+Prompt 8:
+User: What is the plural form of "child" in English?
+Response: The plural form of "child" is "children."
+
+Prompt 9:
+User: How do you say "good night" in Italian?
+Response: "Good night" in Italian is "Buona notte."
+
+Prompt 10:
+User: Can you explain the difference between "who" and "whom" in English?
+Response: "Who" is used as a subject, while "whom" is used as an object. For example, "Who called?" vs. "To whom did you give the book?"
+
+Prompt 11:
+User: How do you say "I love you" in Japanese?
+Response: "I love you" in Japanese is "愛してる" (Aishiteru).
+
+Prompt 12:
+User: What’s the past tense of "eat" in English?
+Response: The past tense of "eat" is "ate."
+
+Prompt 13:
+User: How do I ask "Where is the bathroom?" in Spanish?
+Response: "Where is the bathroom?" in Spanish is "¿Dónde está el baño?"
+
+Prompt 14:
+User: What is a common greeting in Arabic?
+Response: A common greeting in Arabic is "As-salamu alaykum," which means "Peace be upon you."
+
+Prompt 15:
+User: Can you give me a sentence using the present continuous tense in English?
+Response: Sure! "She is reading a book right now."
+
+Prompt 16:
+User: What’s the difference between "por" and "para" in Spanish?
+Response: "Por" is generally used to express cause, reason, or a method (e.g., "I did it for love"), while "para" is used for purpose, destination, or goals (e.g., "This gift is for you").
+
+Prompt 17:
+User: How do you say "How are you?" in German?
+Response: "How are you?" in German is "Wie geht's?"
+
+Prompt 18:
+User: Can you explain the difference between "since" and "for" in English?
+Response: "Since" is used when referring to a specific point in time, e.g., "since 1990," while "for" is used to describe a duration of time, e.g., "for 10 years."
+
+Prompt 19:
+User: How do you conjugate "to be" in the present tense in English?
+Response: In the present tense, "to be" is conjugated as: "I am," "You are," "He/She/It is," "We are," "They are."
+
+Prompt 20:
+User: What is the French word for "friend"?
+Response: The French word for "friend" is "ami" (masculine) or "amie" (feminine).
